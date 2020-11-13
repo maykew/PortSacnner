@@ -5,7 +5,6 @@
 <p align="center">
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dart-objetivos">Objetivos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#boom-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mortar_board-como-executar-o-projeto">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#family-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -24,12 +23,6 @@ Este é um desafio com o intuito de desenvolver uma aplicação multithreading q
 - Familiarizar-se com a programação utilizando a API [socket](https://docs.python.org/3/library/socket.html);<br>
 - Ambientar-se na programação com Threads utilizando a API [threading](https://docs.python.org/3/library/threading.html);<br>
 - Manipular endereços de rede.
-
-### :boom: Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- [Python](https://www.python.org/)
 
 ### :mortar_board: Como executar o projeto
 
